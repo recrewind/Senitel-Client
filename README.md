@@ -102,5 +102,15 @@ Join the community or support development!
 - Support Me @ [Ko-Fi](https://ko-fi.com/nkhhi)
 
 ---
+## ⭐ Connect Spotify
 
-**Stay aware. Stay connected. Stay Sentinel.** 🛡️
+You get a Spotify Client ID by creating an app in the [Spotify Developer Dashboard](https://developer.spotify.com/dashboard).
+
+
+1. Sign in with your Spotify account and create an app.
+
+2. Add this redirect URI exactly: http://127.0.0.1:27381/callback
+
+3.  Open the app’s settings and copy its Client ID.
+
+4. Put the Client ID in config.txt on your VR. Android/Data/nkhhi.gorillatag/config.txt
